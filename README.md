@@ -42,7 +42,7 @@ Before opening the game, a local webserver must be started to access **Req10.htm
 ## Aim
 The aim of the plane game is very simple: Fly through all ten rings as quickly as possible. Rings are randomly positioned in the map each game and will turn green when they have been successfully flown through.  A good attempt will be completed in under a minute.  The game will reset automatically when completed after a break of 10 seconds.
 
-There is a label in the top right that will inform you of the number of targets still to get and the amount of time this attempt has been running.
+There is a label in the top left that will inform you of the number of targets still to get and the amount of time this attempt has been running.
 
 ## Controls
 To control the plane:
